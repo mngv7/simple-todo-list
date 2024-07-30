@@ -19,8 +19,7 @@ public class ToDoItem {
         this.description = description;
     }
 
-    public boolean getIsDone()
-    {
+    public boolean isDone() {
         return isDone;
     }
 
